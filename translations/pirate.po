@@ -72,7 +72,7 @@ msgstr "DrunkenParrot"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "Aborted! it failed!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
@@ -92,7 +92,7 @@ msgstr "Port:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "Swing to that ship through the internet #ff0000ff(experimental)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
@@ -160,7 +160,7 @@ msgstr "One man made a crew for man's "
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "Ye don't need yer wi-fi to be hang on internet "
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
 msgid "Connecting to a phone's hotspot should work!"
@@ -252,7 +252,7 @@ msgstr "Clicky thing aim %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
-msgstr ""
+msgstr "Keep an eye out..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
@@ -260,7 +260,7 @@ msgstr ""
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "Failed swinging to STUN."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
 msgid "Authenticating..."
@@ -320,13 +320,13 @@ msgstr "<Lodge Comment here>"
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
 msgid "Comment"
-msgstr ""
+msgstr "THI comment"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "comment must have 3 or more ... letter?"
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
@@ -348,7 +348,7 @@ msgstr "Agghh comment stucked"
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "Tell 'em to gov."
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
@@ -402,27 +402,27 @@ msgstr "Scallywags"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
-msgstr ""
+msgstr "Ifrica"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
-msgstr "Asia"
+msgstr "Asuwa"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
-msgstr "Europe"
+msgstr "Uropa"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
-msgstr "North America"
+msgstr "North Land"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
-msgstr "Oceania"
+msgstr "The 7th sea"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
-msgstr "South America"
+msgstr "South Land"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
@@ -542,7 +542,7 @@ msgstr "Gankplank broke"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
-msgstr ""
+msgstr "Thi cannons missed thi ship"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
